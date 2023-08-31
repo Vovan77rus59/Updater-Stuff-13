@@ -1,0 +1,39 @@
+Rom Changelog:
+- August 2023 Security patch update  (android-13.0.0_r67)
+- Include PE's Pixel framework (Enjoy Quick Tap feature)
+- Bring back QS Header Images
+- Add QS battery customizations
+- Enable new back gesture affordance
+- Tell user when face unlock detection is running
+- Improve switch to unlink ringtone and notifications volume
+- Improve power menu drawables and strings
+- Replace configurable fingerprint wake-and-unlock by a much simpler implementation from ArrowOS
+- AirPod support changes has been revised on top of new changes based on OpenPods source
+- Settings: Re-order SELinux status on About Phone
+- Settings: Allow toggling in-call notifications
+- Settings: Show single-touch wakeup setting on rear & front fps devices
+- DerpSpace: Use click effect toggle instead of duration for haptic feedback for QSTile
+- recovery: Ask to reboot before installing anything after A/B update
+- Relax few restrictions for builds with prebuilt vendor
+- Gms update from August release
+- Smart 5G support
+- DerpFest source code synchronization
+
+Device Changelog:
+- Enable NrMode Switcher
+- Kernel updated to Linux 5.4.254 (stable release)
+- Updated blobs from OOS 13.1.0.590(EX01)
+- Fix slow charge while screen is on
+- Force GPU idle timeout
+- Add Dolby to OnePlus Setting
+- Use LDAC blobs from OOS 13.1.0.590(EX01)
+- Drop useless camera configs
+- Update dolby dax-default to OSS 13.1.0
+- Stability and battery improved
+- Adreno update to v@600
+- Usb otg fixed
+- Bluetooth a2dp offload disabled
+- Performance mode qualcomm (codelinaro)
+- Fixed OplusCamera modes (thanks MeTT1S)
+- Add Lineage fastcharge
+- Update thermal config from OOS 13.1.0.590(EX01)
