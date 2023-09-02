@@ -16,13 +16,15 @@ Rom Changelog:
 - recovery: Ask to reboot before installing anything after A/B update
 - Relax few restrictions for builds with prebuilt vendor
 - Gms update from August release
+- Update lawnicons
 - Smart 5G support
+- Add Data icons
 - DerpFest source code synchronization
 
 Device Changelog:
 - Enable NrMode Switcher
 - Kernel updated to Linux 5.4.254 (stable release)
-- Updated blobs from OOS 13.1.0.590(EX01)
+- Updated blobs from OOS 13.1.0.591(EX01)
 - Fix slow charge while screen is on
 - Force GPU idle timeout
 - Add Dolby to OnePlus Setting
@@ -35,5 +37,4 @@ Device Changelog:
 - Bluetooth a2dp offload disabled
 - Performance mode qualcomm (codelinaro)
 - Fixed OplusCamera modes (thanks MeTT1S)
-- Add Lineage fastcharge
 - Update thermal config from OOS 13.1.0.590(EX01)
