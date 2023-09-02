@@ -16,7 +16,9 @@ Rom Changelog:
 - recovery: Ask to reboot before installing anything after A/B update
 - Relax few restrictions for builds with prebuilt vendor
 - Gms update from August release
+- Update lawnicons
 - Smart 5G support
+- Add Data icons
 - DerpFest source code synchronization
 
 Device Changelog:
@@ -35,5 +37,4 @@ Device Changelog:
 - Bluetooth a2dp offload disabled
 - Performance mode qualcomm (codelinaro)
 - Fixed OplusCamera modes (thanks MeTT1S)
-- Add Lineage fastcharge
 - Update thermal config from OOS 13.1.0.590(EX01)
