@@ -13,12 +13,13 @@ Rom Changelog:
 - Settings: Allow toggling in-call notifications
 - Settings: Show single-touch wakeup setting on rear & front fps devices
 - DerpSpace: Use click effect toggle instead of duration for haptic feedback for QSTile
-- recovery: Ask to reboot before installing anything after A/B update
 - Relax few restrictions for builds with prebuilt vendor
 - Gms update from August release
 - Update lawnicons
 - Smart 5G support
 - Add Data icons
+- Add Charging Control
+- Double tap lock screen
 - DerpFest source code synchronization
 
 Device Changelog:
@@ -38,3 +39,4 @@ Device Changelog:
 - Performance mode qualcomm (codelinaro)
 - Fixed OplusCamera modes (thanks MeTT1S)
 - Update thermal config from OOS 13.1.0.590(EX01)
+- Lineage Health
