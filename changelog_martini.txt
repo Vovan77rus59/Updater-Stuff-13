@@ -20,11 +20,12 @@ Rom Changelog:
 - Add Data icons
 - Add Charging Control
 - Double tap lock screen
+- Android Beam
 - DerpFest source code synchronization
 
 Device Changelog:
 - Enable NrMode Switcher
-- Kernel updated to Linux 5.4.254 (stable release)
+- Kernel updated to Linux 5.4.256 (stable release)
 - Updated blobs from OOS 13.1.0.591(EX01)
 - Fix slow charge while screen is on
 - Force GPU idle timeout
