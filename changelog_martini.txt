@@ -1,5 +1,5 @@
 Rom Changelog:
-- Merge September security patch
+- Merge September security patch android 13
 - GlobalActionsDialog: Enable blur behind via window flags
 - Settings: storage: Do not skip primary user when listing non-logged in users
 - Add Lineage charging control
@@ -30,6 +30,23 @@ Rom Changelog:
 - DerpLauncher: Animation improvements
 - DerpLauncher: Hide "all apps" view when search starts
 - Import latest offline charging animation from Pixel 7 Pro
+- Allow to hide arrow for back gesture
+- Add toggle for google photos spoof
+- Add Wi-Fi timeout feature
+- Add Bluetooth timeout feature
+- Hide ADB and developer setting enable status
+- Fix toggle for secure tiles on keyguard
+- GlobalActions: Fix visibility issue on A11 submenu
+- Make isLargeScreen() use correct API for getting window metrics
+- Fix zen mode dialog bugs
+- BatteryStatsImpl: Fix divide by zero error
+- BatteryStatsImpl: Avoid dividing by 0.0 in updateWifiState
+- Move DT2S from PulsingGestureListener
+- Fix a runtime exception cause by wrong retrieval of drawable
+- Fix a crash if an application is using root permission when calling package manager api
+- Allow wildcard in RRO system property value checks
+- GameSpace: Update priv-app permissions whitelist
+- GameSpace: Add missing permission usage for Danmaku service
 
 Device Changelog:
 - Enable Lineage charging control hal
