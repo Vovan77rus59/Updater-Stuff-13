@@ -47,9 +47,11 @@ Rom Changelog:
 - Allow wildcard in RRO system property value checks
 - GameSpace: Update priv-app permissions whitelist
 - GameSpace: Add missing permission usage for Danmaku service
+- Add old style mobile data indicators
 
 Device Changelog:
 - Enable Lineage charging control hal
+- Updated blobs from OOS 13.1.0.592(EX01)
 
 Kernel Changelog:
 - Upstream to 5.4.256
