@@ -47,6 +47,7 @@ Rom Changelog:
 - Allow wildcard in RRO system property value checks
 - GameSpace: Update priv-app permissions whitelist
 - GameSpace: Add missing permission usage for Danmaku service
+- Add old style mobile data indicators
 
 Device Changelog:
 - Enable Lineage charging control hal
