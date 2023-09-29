@@ -30,4 +30,4 @@ Device Changelog:
 - Enable Warp Charger support
 
 Kernel Changelog:
-- Upstream to 5.4.256
+- Upstream to 5.4.257
