@@ -1,33 +1,27 @@
 Rom Changelog:
-- Merge September security patch "android-13.0.0_r75"
-- Allow to hide arrow for back gesture
-- Add toggle for google photos spoof
-- Add Wi-Fi timeout feature
-- Add Bluetooth timeout feature
-- DerpSpace: bring back old style mobile data indicators
-- DerpSpace: Update secure tiles on keyguard
-- SystemUI: improve mobile data style switch logic
-- GameSpace: Don't set device_config property directly
+- Merge October security patch
+- Settings: Tie wake on plug with some form of battery presence
+- Settings: Fix clipping in app list layout
+- Fix CVE-2023-5217 (https://github.com/advisories/GHSA-qqvq-6xgj-jw8g for more info)
+- Add 12 new Lockscreen clock fonts
+- Enforce smartspace configs
+- Improve custom seekbars in DerpSpace
+- Fix exception when retrieving signal strength drawable
+- Less boring headsup enhancements and fixes
+- Fix scrim transparency for split shade
+- Fade the QS footer background early when split shade is translucent
+- Hide notification scrim background when entering split shade
+- Always make sure LightRevealScrim finishes regardless of the progress
+- Fix CVE-2023-4863 (https://t.me/MishaalAndroidNews/1024 for more info)
+- Pass correct invocation type for assistant launch on home long press
+- Fix an issue where all HDMI displays avoided content in upper 1/8 of screen because the primary display cutout overlay was applied to the external HDMI TV
 - GameManagerService: Set device_config property on behalf of GameSpace
-- Hide ADB and developer setting enable status
-- Fix toggle for secure tiles on keyguard
-- GlobalActions: Fix visibility issue on A11 submenu
-- Make isLargeScreen() use correct API for getting window metrics
-- Fix zen mode dialog bugs
-- BatteryStatsImpl: Fix divide by zero error
-- BatteryStatsImpl: Avoid dividing by 0.0 in updateWifiState
-- Move DT2S from PulsingGestureListener
-- Fix a runtime exception cause by wrong retrieval of drawable
-- Fix a crash if an application is using root permission when calling package manager api
-- Allow wildcard in RRO system property value checks
-- GameSpace: Update priv-app permissions whitelist
-- GameSpace: Add missing permission usage for Danmaku service
-- Some more things maybe I can't remember
+- DerpLauncher: Improve code for allow hiding top shadow on statusbar switch
+- charger: Support charger on vendor
 - DerpFest source code synchronization
 
 Device Changelog:
 - Updated blobs from OOS 13.1.0.592(EX01)
-- Enable Warp Charger support
 
 Kernel Changelog:
 - Upstream to 5.4.257
