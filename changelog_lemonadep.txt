@@ -23,7 +23,7 @@ Rom Changelog:
 Device Changelog:
 - Updated blobs from OOS 13.1.0.591(EX01)
 - Oplus Camera support Google Photos
-- Fix Oplus Camera zoom video mode
+- Migrate to Oplus power AIDL HAL
 
 Kernel Changelog:
 - Upstream to 5.4.259
