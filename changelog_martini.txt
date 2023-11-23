@@ -4,12 +4,12 @@ Rom Changelog:
 * packages/modules/DnsResolver
 * packages/modules/StatsD
 * system/ca-certificates
-* packages/apps/KeyChain
 - Fix Markup Google
 - Fix Google Play system update
+- DerpFest source code synchronization
 
 Device Changelog:
-- Updated blobs from OOS 13.1.0.592(EX01)
+- Updated blobs from OOS 13.1.0.593(EX01)
 - Oplus Camera support Google Photos
 - Migrate to Oplus power AIDL HAL
 - Fix microphone recording level
