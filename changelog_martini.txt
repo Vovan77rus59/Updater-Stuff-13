@@ -5,7 +5,7 @@ Rom Changelog:
 * packages/modules/StatsD
 * system/ca-certificates
 - Fix Markup Google
-- Fix Google Play system update
+- Google Play November system update
 - DerpFest source code synchronization
 
 Device Changelog:
@@ -14,9 +14,10 @@ Device Changelog:
 - Migrate to Oplus power AIDL HAL
 - Fix microphone recording level
 - Fix sepolicy denials
-- New Dolby Atmos support
+- Dolby Atmos support update
 - Switch BtAudio to AIDL
 - Switch audio HAL to V7
+- Switch to QTI health AIDL service
 
 Kernel Changelog:
 - Upstream to 5.4.259
