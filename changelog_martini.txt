@@ -9,12 +9,16 @@ Rom Changelog:
 - DerpFest source code synchronization
 
 Device Changelog:
-- Revert blobs from OOS 13.1.0.591(EX01)
+- Revert blobs from OOS 13.1.0.592(EX01)
 - Oplus Camera support Google Photos
 - Migrate to Oplus power AIDL HAL
 - Fix microphone recording level
 - Fix sepolicy denials
 - Switch audio HAL to V7
+- Enable Google Assistant
+- Enable Sound Amplifier
+- Enable Personal Safety Google
+- Enable Talkback
 
 Kernel Changelog:
 - Upstream to 5.4.259
