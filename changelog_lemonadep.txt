@@ -15,6 +15,10 @@ Device Changelog:
 - Fix microphone recording level
 - Fix sepolicy denials
 - Switch audio HAL to V7
+- Enable Google Assistant
+- Enable Sound Amplifier
+- Enable Personal Safety Google
+- Enable Talkback
 
 Kernel Changelog:
 - Upstream to 5.4.259
