@@ -5,15 +5,20 @@ Rom Changelog:
 * packages/modules/StatsD
 * system/ca-certificates
 - Fix Markup Google
-- Fix Google Play system update
+- Google Play November system update
 - DerpFest source code synchronization
 
 Device Changelog:
-- Updated blobs from OOS 13.1.0.592(EX01)
+- Revert blobs from OOS 13.1.0.591(EX01)
 - Oplus Camera support Google Photos
 - Migrate to Oplus power AIDL HAL
 - Fix microphone recording level
 - Fix sepolicy denials
+- Switch audio HAL to V7
+- Enable Google Assistant
+- Enable Sound Amplifier
+- Enable Personal Safety Google
+- Enable Talkback
 
 Kernel Changelog:
 - Upstream to 5.4.259
